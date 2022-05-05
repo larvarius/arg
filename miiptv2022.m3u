@@ -1457,7 +1457,7 @@ https://s8.stweb.tv/berlin/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Logo_La100_Verde.JPG/225px-Logo_La100_Verde.JPG" group-title="Radios",La 100
 http://buecrplb01.cienradios.com.ar/la100.aac
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/36/3b/363bc6a2442f5dc9b698fadc96c08988.jpg" group-title="Radios",Los 40 FM 105.5
-http://18803.live.streamtheworld.com:80/LOS40_ARGENTINAAAC_SC
+http://21933.live.streamtheworld.com:80/LOS40_ARGENTINAAAC_SC
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/2c/b5/2cb51bd62d15e8f42939cb03621f7408.jpg" group-title="Radios", Vale FM97.5
 https://s6.stweb.tv/vale/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/73/00/73002cc4192ea46f019b848e0f9b056d.jpg" group-title="Radios",Aspen
