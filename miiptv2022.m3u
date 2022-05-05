@@ -1435,7 +1435,7 @@ https://musicsrc.cvattv.com.ar/RMIT
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/bb/e6/bbe63d38a224e022ba1c8be044903a45.jpg" group-title="Radios",Radio 10
 http://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/52/9a/529aa74bf61b709c7058b82ce7d14e31.jpg" group-title="Radios",Radio Continental
-http://24863.live.streamtheworld.com:80/CONTINENTALAAC_SC
+http://21933.live.streamtheworld.com:80/CONTINENTALAAC_SC
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/72/e8/72e8dcfa29f0bcec8c1c8043a2b38c97.jpg" group-title="Radios",Radio Nacional
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/a5/44/a544bf042a96e4381988a187dce3e200.jpg" group-title="Radios",Rivadavia
