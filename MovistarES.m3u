@@ -1,0 +1,27 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml"
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="Movistar",MOVISTAR HD 
+http://tv365.me:900/3297541654/9814030356/171850
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/LOGO/SPAIN/M.VACACIONES.png" group-title="Movistar",M+ LA RESISTENCIA HD
+http://tv365.me:900/3297541654/9814030356/400241681
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ACCIONHD.png" group-title="Movistar",M. ACCION HD
+http://tv365.me:900/3297541654/9814030356/165941
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-logo="https://lo1.in/LOGO/SPAIN/M.CINEESP.png" group-title="Movistar",M. CINE ESPAÃƒNOL HD
+http://tv365.me:900/3297541654/9814030356/165945
+#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Clasicos.png" group-title="Movistar",M. CLASICOS HD
+http://tv365.me:900/3297541654/9814030356/400233592
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Comedia.png" group-title="Movistar",M. COMEDIA HD
+http://tv365.me:900/3297541654/9814030356/165942
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-logo="https://lo1.in/LOGO/SPAIN/MDRAMA.png" group-title="Movistar",M. DRAMA HD
+http://tv365.me:900/3297541654/9814030356/165943
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="Movistar",M. ESTRENOS HD
+http://tv365.me:900/3297541654/9814030356/165940
+#EXTINF:-1 tvg-id="MovistarEstrenos2.es" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="Movistar",M. ESTRENOS 2 HD
+http://tv365.me:900/3297541654/9814030356/165944
+#EXTINF:-1 tvg-id="MovistarFest.es" tvg-logo="https://lo1.in/LOGO/SPAIN/M.Fest.png" group-title="Movistar",M. FEST HD
+http://tv365.me:900/3297541654/9814030356/362314
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-logo="https://lo1.in/LOGO/SPAIN/MOVISTARSERIESMANIA.png" group-title="Movistar",M. SERIES HD
+http://tv365.me:900/3297541654/9814030356/165946
+#EXTINF:-1 tvg-id="MovistarSeries2.es" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="Movistar",M. SERIES 2 HD
+http://tv365.me:900/3297541654/9814030356/165952
