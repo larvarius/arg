@@ -52,8 +52,18 @@ https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="CINE",HBO MUNDI
+https://edge1.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureHDLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="CINE", HBO Signarure
+https://edge1.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
+#EXTINF:-1 tvg-id="CinemaxSouth.us" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-CINEMAX.jpg" group-title="CINE", CINEMAX 
+https://edge1.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmerica.us" tvg-logo="https://i.imgur.com/k00nQ6l.png" group-title="CINE", PLAYBOY
+https://edge1.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
+#EXTINF:-1 tvg-id="Venus.ar" tvg-logo="https://i.imgur.com/4LFXPMk.png" group-title="CINE", Venus
+https://edge1.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE", Sextreme
+https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/thumbh_20211206_224154.jpg" group-title="CINE", TU CINE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
