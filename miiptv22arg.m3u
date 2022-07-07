@@ -71,6 +71,16 @@ https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://imagizer.imageshack.com/img924/1737/3nBunA.jpg" group-title="Sports 1", Discovery Turbo
 https://edge1.prepro.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_WebVTT_FTA/DiscoveryTurbo.m3u8
 
+
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-logo="https://i.imgur.com/uybtUdC.png" group-title="CINE", AMC
+https://edge3.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
+#EXTINF:-1 tvg-id="CinecanalSouth.us" tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal
+https://edge3.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="CINE",Comedy Central
+https://edge3.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="CINE",FX
+https://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
+
 #EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="CINE",HBO MUNDI
 https://edge1.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
 #EXTINF:-1 tvg-id="HBOSignatureHDLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="CINE", HBO Signarure
