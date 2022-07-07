@@ -28,11 +28,29 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="Sports 1", TyC SPORT 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", ESPN
+https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?fbclid=IwAR0nYQ8qp4rzNsZ_oTFqWXVZm9xZ-I0tyAJu3j-BkBa04jRNpIy6jd_lCX0
+
+#EXTINF:-1 tvg-id="ESPN3Argentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", ESPN 3
+https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
+
 #EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", ESPN SD
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Sports 1", Fox Sports
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Sports 1", Fox Sports 2
+https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Sports 1", Fox Sports 3
+https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
+
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Sports 1", Fox Sports SD
 http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3Argentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", ESPN 3
+https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 1", DirecTV SPORTS SD
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
@@ -50,7 +68,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #EXTINF:-1 tvg-id="beINSportsXtraUSA.us" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="Sports 1", beIN SPORT XTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 
-
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://imagizer.imageshack.com/img924/1737/3nBunA.jpg" group-title="Sports 1", Discovery Turbo
+https://edge1.prepro.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_WebVTT_FTA/DiscoveryTurbo.m3u8
 
 #EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="CINE",HBO MUNDI
 https://edge1.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
