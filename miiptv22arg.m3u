@@ -1,6 +1,27 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml"
 
+#EXTINF:-1, DTV Sports Arg.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=a7e09c6f47af57e999b789eb54d3255d&key=263f6db12d6f9aa72f2cc9b0ef2e26b2
+https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
+
+#EXTINF:-1 , DTV Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=1413caa03e045743b6496232b09e68fa&key=25ce4f6cd3ee5613922f9c7f6f6e07bd
+https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
+
+#EXTINF:-1 , DTV Sports Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://agamen0n.webcindario.com/clearkey.php?kid=f19c3a8c638d52c2ab77b9566bcb2996&key=e4fabf39d23cd6557fa71b6e754ef1e7
+https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1539189684961546240/MZ5SxpyR_400x400.jpg" group-title="NACIONAL", CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 
