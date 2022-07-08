@@ -68,12 +68,6 @@ https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxS
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 1", DTV SPORTS SD
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 1", DTV SPORTS op2
-https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd?&ck=eyJhN2UwOWM2ZjQ3YWY1N2U5OTliNzg5ZWI1NGQzMjU1ZCI6IjI2M2Y2ZGIxMmQ2ZjlhYTcyZjJjYzliMGVmMmUyNmIyIn0=
-
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 1", DTV SPORTS op3
-https://ed3.zorrohd2.nl/live/flowitc91zh.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="Sports 1", CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
@@ -169,6 +163,35 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPIcbBVoe0SzqeUeUVmQIs-sC61tL3O-C_Njk_lrKGpanwX61xm2b82LstEurLLl9mtbP4YqZaFaa0doG4z0SBV4PmFUPDCKEk8NvYHUUSxGvq3jtqI-rVwTu2dL12vEHFIn_nfaGYKRsbiy4vXeByay5EZ9XjJHewvlScn06vT3h4ktEP2XJPI3O1pw/s1600/Sextreme,%20Online%20-%20En%20Vivo%20-%20En%20HD%20-%20Television%20Online.jpg" group-title="CINE", Sextreme
 https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
 
+#EXTINF:0, tvg-logo="https://i.postimg.cc/NGKPwybC/A3-BIKINI-MODIFICADA.png" group-title="CINE",A3BIKINI
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+#EXTINF:0, tvg-logo="" group-title="CINE",TV Adultos POV
+http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo="" group-title="CINE",TV Adultos Teens
+http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" group-title="CINE",TV Adultos GangBang
+http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo="" group-title="CINE",TV Adultos Brunette
+http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo="" group-title="CINE",TV Adultos Blonde
+http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo="" group-title="CINE",TV Adultos Live Cams
+http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo="" group-title="CINE",TV Adultos Latina
+http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo="" group-title="CINE",TV Adultos MILF
+http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo="" group-title="CINE",TV Adultos Pornstars
+http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
 
 
 
