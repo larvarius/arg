@@ -14,7 +14,7 @@ https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/wat
 https://edge3.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="NACIONAL", AMERICA HD
-https://edge-vod01-hr.cvattv.com.ar//live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WIPjYtR2N6s
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="NACIONAL", CANAL 9 
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
