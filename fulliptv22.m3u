@@ -105,9 +105,6 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE", HBO Extreme
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
 
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP
-https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
-
 #EXTINF:-1 tvg-id="HBOSignatureHDLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="CINE", HBO Signarure
 https://edge1.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
 
