@@ -53,7 +53,7 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169954.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_Premium.png" group-title="Sports 1", ESPN Premium
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/371364.ts
 
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1539965798529130498/3F1yzhSX_400x400.png" group-title="Sports 1", TNT Sports HD
+#EXTINF:-1 tvg-id="TNTSportsHDArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1539965798529130498/3F1yzhSX_400x400.png" group-title="Sports 1", TNT Sports HD
 http://titanicos.net:8080/trading131sdRes/EREPQGarev/26530
 
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Sports 1", Fox Sports
@@ -126,10 +126,10 @@ http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/26578.ts
 #EXTINF:-1 tvg-id="ESPN3South.us" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 2", ESPN 3 Op3
 https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1539965798529130498/3F1yzhSX_400x400.png" group-title="Sports 2", TNT Sports SD
+#EXTINF:-1 tvg-id="TNTSportsHDArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1539965798529130498/3F1yzhSX_400x400.png" group-title="Sports 2", TNT Sports SD
 http://titanicos.net:8080/trading131sdRes/EREPQGarev/233835
 
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1539965798529130498/3F1yzhSX_400x400.png" group-title="Sports 2", TNT Sports Op2
+#EXTINF:-1 tvg-id="TNTSportsHDArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1539965798529130498/3F1yzhSX_400x400.png" group-title="Sports 2", TNT Sports Op2
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165666.m3u8
 
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 2", DTV SPORTS Op2
