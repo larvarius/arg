@@ -248,19 +248,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ad4ad6537680007be2e
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", Trap Nation Live
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/live-music-sign-png-svg-library-live-music-icon-115630648051u3w3tgccz.png" group-title="MUSICA", Trap Nation Live
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=6Qq2OMFh8Pc
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", Tomorrowland Daybreak Live
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/live-music-sign-png-svg-library-live-music-icon-115630648051u3w3tgccz.png" group-title="MUSICA", Tomorrowland Daybreak Live
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Ehnp6MzX1v4
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", Ibiza Summer Live
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/live-music-sign-png-svg-library-live-music-icon-115630648051u3w3tgccz.png" group-title="MUSICA", Ibiza Summer Live
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wPgyaAIrpMo
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", The Good Life Radio
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/live-music-sign-png-svg-library-live-music-icon-115630648051u3w3tgccz.png" group-title="MUSICA", The Good Life Radio
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=36YnV9STBqc
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", Summer Mix Deep
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/live-music-sign-png-svg-library-live-music-icon-115630648051u3w3tgccz.png" group-title="MUSICA", Summer Mix Deep
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RbJg7YLqJk8
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b08a19ebf43dc88aa62a5acb380fa90f.png",Ibiza Global TV
@@ -621,13 +621,13 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="RELAX", Calmar la Mente
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/989/852/png-transparent-computer-icons-comfort-relax-miscellaneous-angle-building-thumbnail.png" group-title="RELAX", Calmar la Mente
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-Kdp6LVY8jk
 
-#EXTINF:-1 tvg-logo="" group-title="RELAX", Musica Curativa
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/989/852/png-transparent-computer-icons-comfort-relax-miscellaneous-angle-building-thumbnail.png" group-title="RELAX", Musica Curativa
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=QIlm7is7GvE
 
-#EXTINF:-1 tvg-logo="" group-title="RELAX", Musicoterapia
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/989/852/png-transparent-computer-icons-comfort-relax-miscellaneous-angle-building-thumbnail.png" group-title="RELAX", Musicoterapia
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=1rmMFk7Rf7o
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJZHoUj.png" group-title="RELAX", ANIMALS LIVE
@@ -666,77 +666,77 @@ https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 group-title="CITY CAM", Hollywood Beach Florida
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", Hollywood Beach Florida
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=cmkAbDUEoyA
 
-#EXTINF:-1 group-title="CITY CAM", Crystal Bay, Thailand
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", Crystal Bay, Thailand
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wYPkDMVoxWo
 
-#EXTINF:-1 group-title="CITY CAM", Las Vegas
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", Las Vegas
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4W3Xx_bErj0
 
 
-#EXTINF:-1 group-title="CITY CAM", FOUR SEASONS BUENOS AIRES
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", FOUR SEASONS BUENOS AIRES
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=if91GyWP3zQ
 
-#EXTINF:-1 group-title="CITY CAM", USHUAIA LIVE
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", USHUAIA LIVE
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=YF9KIVuIEow
 
-#EXTINF:-1 group-title="CITY CAM", WORLD LIVE
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", WORLD LIVE
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=3qdEMXmwTkQ
 
-#EXTINF:-1 group-title="CITY CAM", VATICANS NEWS 
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", VATICANS NEWS 
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ZkQFsisCq2k
 
-#EXTINF:-1 group-title="CITY CAM", Times Square
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", Times Square
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AdUw5RdyZxI
 
-#EXTINF:-1 tvg-logo="https://freewaves.live/static/media/logo-blanco.007dc245.svg" group-title="CITY CAM", EL MOLINO SAN ISIDRO
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", EL MOLINO SAN ISIDRO
 https://elmolino.freewaves.live/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1505921235556999172/rQO1Vo6x_400x400.jpg" group-title="CITY CAM", CIUDAD DE NEUQUEN (Av norte)
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", CIUDAD DE NEUQUEN (Av norte)
 https://nqnmunicam.ddns.net/camnqn/avnorte_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1505921235556999172/rQO1Vo6x_400x400.jpg" group-title="CITY CAM", CIUDAD DE NEUQUEN (Monumento)
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", CIUDAD DE NEUQUEN (Monumento)
 https://nqnmunicam.ddns.net/camnqn/monumento_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="CITY CAM", BUNGE Y LIBERTADOR PINAMAR
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", BUNGE Y LIBERTADOR PINAMAR
 https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="CITY CAM", OSTENDE Y LA RAMBLA PINAMAR
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", OSTENDE Y LA RAMBLA PINAMAR
 https://wowza.telpin.com.ar:1935/camara-rambla/camara-rambla.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="CITY CAM", PINAMAR GOLF
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", PINAMAR GOLF
 https://wowza.telpin.com.ar:1935/camara-golf/camara-golf.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="CITY CAM", CANAL 79 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", CANAL 79 MAR DEL PLATA
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="CITY CAM", CANAL 79 VILLA MAZA
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", CANAL 79 VILLA MAZA
 https://streamconex.com:1936/villamaza/villamaza/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="CITY CAM", CANAL 79 SANTA CLARA DEL MAR
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", CANAL 79 SANTA CLARA DEL MAR
 https://streamconex.com:1936/santaclara/santaclara/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="CITY CAM", CANAL 79 SAN JUAN
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", CANAL 79 SAN JUAN
 https://streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="CITY CAM", CANAL 79 LA COSTA
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", CANAL 79 LA COSTA
 https://streamconex.com:1936/lacosta/lacosta/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="CITY CAM", CANAL 79 PUAN
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", CANAL 79 PUAN
 https://streamconex.com:1936/puan/puan/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="CITY CAM", SIERRA DE LA VENTANA
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", SIERRA DE LA VENTANA
 https://streaming.reltid.com.ar/hls/sierra.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="CITY CAM", AV 3 Y 104 VILLA GESELL
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", AV 3 Y 104 VILLA GESELL
 http://cam104y3.gesell.com.ar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="CITY CAM", BS AS Y PLAYA VILLA GESELL
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", BS AS Y PLAYA VILLA GESELL
 http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="CITY CAM", LA PINOCHA VILLA GESELL
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/CCTV-white-security-camera---security-system-transparent-PNG.png" group-title="CITY CAM", LA PINOCHA VILLA GESELL
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
 
