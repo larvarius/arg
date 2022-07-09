@@ -1,61 +1,172 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="DEPORTES", DIRECTV SPORTS AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvar.json
-https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
+#EXTINF:-1,ARG: C5N SD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/25180.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" tvg-group="DEPORTES", DIRECTV SPORTS CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvcl.json
-https://dtvott-abc.akamaized.net/dash_live_1058/manifest.mpd
+#EXTINF:-1,ARG: A24 HD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/256.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png" tvg-group="DEPORTES", DIRECTV SPORTS EC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvec.json
-https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
+#EXTINF:-1,ARG: Television Publica HD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/25183.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtH9dGV/dtcco.png" tvg-group="DEPORTES", DIRECTV SPORTS CO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvco.json
-https://dtvott-abc.akamaized.net/dash_live_1059/manifest.mpd
+#EXTINF:-1,ARG: Todo Noticias TN SD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/275.m3u8
+#EXTINF:-1,ARG: Todo Noticias TN HD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/25194.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" tvg-group="DEPORTES", DIRECTV SPORTS UY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvuy.json
-https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd
+#EXTINF:-1 tvg-id="hbo.co" tvg-name="HBO  HD(E)" tvg-logo="https://image.xmltv.guide/icon/1004005.png" group-title="CINE Y SERIES",HBO  HD(E)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173439.m3u8
+#EXTINF:-1 tvg-id="hbo41.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FAMILY ARG FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3057
+#EXTINF:-1 tvg-id="hbo42.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gTs2Lus.png" group-title="Canales Peliculas",HBO MUNDI HD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/226015
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SP5jpff/dtvpe.png" tvg-group="DEPORTES", DIRECTV SPORTS PE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvpe.json
-https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd
+#EXTINF:-1 tvg-id="hbo43.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/gTs2Lus.png" group-title="Canales Peliculas",HBO POP HD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3069
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="DEPORTES", DIRECTV SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtv2.json
-https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
+#EXTINF:-1 tvg-id="hbo43.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO SIGNATURE FHD
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3059
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9rMZ9xg/Dtvplus.png" tvg-group="DEPORTES", DIRECTV SPORTS PLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvplus.json
-https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+#EXTINF:-1 tvg-id="hbo44.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/q3a429L.png" group-title="Canales Peliculas",HBO XTREME HD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/148927
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PQHbG7z/Dtvfith.png" tvg-group="DEPORTES", DIRECTV SPORTS FIGHT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvfigth.json
-https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
+#EXTINF:-1 tvg-id="hbo45.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO PLUS FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/3058
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/pasiones.json
-https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd
+#EXTINF:-1 tvg-id="hbo46.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38690
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcine.json
-https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
+#EXTINF:-1 tvg-id="hbo47.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO Family FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38687
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C79SYb6/ucomedy.png" tvg-group="CINE Y SERIES", UNIVERSAL COMEDY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcomedy.json
-https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
+#EXTINF:-1 tvg-id="hbo48.us" tvg-country="US" tvg-language="English" tvg-logo="https://imgur.com/Z5OeR0v.png" group-title="Canales Peliculas",HBO 2 FHD LATINO
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/29301
+
+
+#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="ARG: TNT SPORTS HD" tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165666.m3u8
+#EXTINF:-1,SP: ARG: TNT Sports HD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/26530.m3u8
+#EXTINF:-1,SP: ARG: Directv Sports 1 HD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/26524.m3u8
+#EXTINF:-1,SP: ARG: Directv Sports 2 HD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/103064.m3u8
+#EXTINF:-1,SP: ARG: Directv Sports + HD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/103065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 AR (D)" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="DIRECTV SPORTS",DIRECTV SPORTS 2 AR (D)
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169946.m3u8
+
+#EXTINF:-1,SP: PE: Directv Sports HD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/300841.m3u8
+#EXTINF:-1,SP: PE: Directv Sports HD+
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/300839.m3u8
+#EXTINF:-1,SP: PE: Directv Sports 2
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/300842.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 ,XXX: Super One HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75414
+#EXTINF:-1 ,XXX: XY Mix HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75420
+#EXTINF:-1 ,XXX: Dorcel XXX HD_Website
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75406
+#EXTINF:-1 ,XXX: Vivid Red HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75407
+#EXTINF:-1 ,XXX: Stars XXX HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75408
+#EXTINF:-1 ,XXX: Evil Angel
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75422
+#EXTINF:-1 ,XXX: Prive TV
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75431
+#EXTINF:-1 ,XXX: SCT Classic
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75433
+#EXTINF:-1 ,XXX: BraZZers TV
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75434
+#EXTINF:-1 ,XXX: X Bizarre
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75443
+#EXTINF:-1 ,XXX: X Bunga Bunga
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75445
+#EXTINF:-1 ,XXX: Taboo
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75455
+#EXTINF:-1 ,XXX: Red XXX
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75462
+#EXTINF:-1 ,XXX: Extreme
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75463
+#EXTINF:-1 ,XXX: Bang U
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75464
+#EXTINF:-1 ,XXX: Brazzers Europe
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233329
+#EXTINF:-1 ,XXX: Brazzers
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233330
+#EXTINF:-1 ,XXX: Brazzers Europe 2
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233331
+#EXTINF:-1 ,XXX: Alba 3
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233313
+#EXTINF:-1 ,XXX: Blacked 1
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233317
+#EXTINF:-1 ,XXX: Babes
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233320
+#EXTINF:-1 ,XXX: SexMex (VIP)_Website 
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/25163
+#EXTINF:-1 ,XXX: Dorcel TV
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233341
+#EXTINF:-1 ,XXX: Dorcel XXX
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233342
+#EXTINF:-1 ,XXX: Hustler
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233372
+#EXTINF:-1 ,XXX: Hustler TV
+http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/233373
+#EXTINF:-1 ,XXX: Hot TV
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75437
+#EXTINF:-1 ,XXX: Venus TV
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75438
+#EXTINF:-1 ,XXX: Sextreme
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75439
+#EXTINF:-1 ,XXX: Sexy HOT
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75440
+#EXTINF:-1 ,XXX: Meiden Van Holland Hard
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75441
+#EXTINF:-1 ,XXX: X1
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75442
+#EXTINF:-1 ,XXX: X Desire
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75444
+#EXTINF:-1 ,XXX: Pink Erotic 2
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75447
+#EXTINF:-1 ,XXX: Pink Erotic 3
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75448
+#EXTINF:-1 ,XXX: Pink Erotic 4
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75449
+#EXTINF:-1 ,XXX: Pink Erotic 5
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75450
+#EXTINF:-1 ,XXX: Pink Erotic 6
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75451
+#EXTINF:-1 ,XXX: Pink Erotic 7
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75452
+#EXTINF:-1 ,XXX: Pink Erotic 8
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75453
+#EXTINF:-1 ,XXX: Balkan Erotic
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75454
+#EXTINF:-1 ,XXX: Oldtimer
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75456
+#EXTINF:-1 ,XXX: Bangerz
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75457
+#EXTINF:-1 ,XXX: Net XX
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75458
+#EXTINF:-1 ,XXX: Playhouse
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75459
+#EXTINF:-1 ,XXX: Hot Pleasure
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75460
+#EXTINF:-1 ,XXX: Milf TV
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75461
+#EXTINF:-1 ,XXX: Lesbian Affair
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75465
+#EXTINF:-1 ,XXX: Emanuelle
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/75466
+
+
+
