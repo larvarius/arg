@@ -66,12 +66,12 @@ https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxS
 #EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Sports 1", Fox Sports 3
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 1", Directv Sports 1 HD
-http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/26524.m3u8
-#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 1", Directv Sports 2 HD
-http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/103064.m3u8
-#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 1", Directv Sports + HD
-http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/103065.m3u8
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 1",Directv Sports 1 HD
+http://gratis.shortgod.com/noratonespppp/tv3.php?c=26484
+#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 1",Directv Sports 2 HD
+http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169946.m3u8
+#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 1",Directv Sports + HD
+http://gratis.shortgod.com/noratonespppp/tv3.php?c=26486
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="Sports 1", CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
