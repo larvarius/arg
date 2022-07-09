@@ -66,8 +66,11 @@ https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxS
 #EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Sports 1", Fox Sports 3
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="Sports 1", DTV SPORTS SD
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="" group-title="Sports 1",Directv Sports 1 HD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/26524.m3u8
+#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-logo="" group-title="Sports 1",Directv Sports 2 HD
+http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/103064.m3u8
+#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-logo="" group-title="Sports 1",Directv Sports + HD
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="Sports 1", CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
@@ -81,7 +84,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #EXTINF:-1 tvg-id="beINSportsXtraUSA.us" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="Sports 1", beIN SPORT XTRA
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://imagizer.imageshack.com/img924/1737/3nBunA.jpg" group-title="Sports 1", Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-language="Spanish" tvg-logo="https://imagizer.imageshack.com/img924/1737/3nBunA.jpg" group-title="Sports 1", Discovery Turbo
 https://edge1.prepro.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_WebVTT_FTA/DiscoveryTurbo.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://www.ver-television.online/images/deportv_.png" group-title="Sports 1" , DEPORTV 
@@ -91,68 +94,71 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.
 
 
 
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE",HBO
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-language="Spanish" tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE",HBO
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="CINE",HBO 2
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="CINE",HBO 2
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhd4vWNgnYdO3-ICOj128z5ZfWo6QWc5ckd7WUd3NZ5rV5Pik3E9gMTAy0ILqey7G0YW4&usqp=CAU" group-title="CINE",HBO PLUS
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhd4vWNgnYdO3-ICOj128z5ZfWo6QWc5ckd7WUd3NZ5rV5Pik3E9gMTAy0ILqey7G0YW4&usqp=CAU" group-title="CINE",HBO PLUS
 https://edge3.prepro.cvattv.com.ar/live/live/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus.m3u8
 
-#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="CINE",HBO MUNDI
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="CINE",HBO MUNDI
 https://edge1.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
 
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE", HBO Extreme
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-language="Spanish" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE", HBO Extreme
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
 
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-language="Spanish" tvg-logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
-#EXTINF:-1 tvg-id="HBOSignatureHDLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="CINE", HBO Signarure
+#EXTINF:-1 tvg-id="HBOSignatureHDLatinAmerica.us" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="CINE", HBO Signarure
 https://edge1.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
 
-#EXTINF:-1 tvg-id="AMCSouth.us" tvg-logo="https://i.imgur.com/uybtUdC.png" group-title="CINE", AMC
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uybtUdC.png" group-title="CINE", AMC
 https://edge3.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 
-#EXTINF:-1 tvg-id="CinecanalSouth.us" tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal
+#EXTINF:-1 tvg-id="CinecanalSouth.us" tvg-language="Spanish" tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE", Cinecanal
 https://edge3.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
-#EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TNT.png" group-title="CINE", TNT
+#EXTINF:-1 tvg-id="TNTSouth.us" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TNT.png" group-title="CINE", TNT
 https://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
-#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjFyrkHHJbq0jYEm2FF6nYKZkdAGlCPzK3IIX9QvEOxVgREM_Dm6HgI3wnkT16yLaBDI&usqp=CAU" group-title="CINE", WARNER
+#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjFyrkHHJbq0jYEm2FF6nYKZkdAGlCPzK3IIX9QvEOxVgREM_Dm6HgI3wnkT16yLaBDI&usqp=CAU" group-title="CINE", WARNER
 https://edge3.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
 
-#EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="CINE",FX
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="CINE",FX
 https://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
-#EXTINF:-1 tvg-id="CinemaxSouth.us" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-CINEMAX.jpg" group-title="CINE", CINEMAX 
+#EXTINF:-1 tvg-id="CinemaxSouth.us" tvg-language="Spanish" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-CINEMAX.jpg" group-title="CINE", CINEMAX 
 https://edge3.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
 
-#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://logos-marcas.com/wp-content/uploads/2022/01/Paramount-Pictures-Logotipo-1967.jpg" group-title="CINE", PARAMOUNT
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-language="Spanish" tvg-logo="https://logos-marcas.com/wp-content/uploads/2022/01/Paramount-Pictures-Logotipo-1967.jpg" group-title="CINE", PARAMOUNT
 https://edge3.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 
-#EXTINF:-1 tvg-id="SpaceSouth.us" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Space HD.png" group-title="CINE", Space
+#EXTINF:-1 tvg-id="SpaceSouth.us" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Space HD.png" group-title="CINE", Space
 https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
 
-#EXTINF:-1 tvg-id="TCMSouth.us" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TCM.png" group-title="CINE", TCM
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TCM.png" group-title="CINE", TCM
 https://edge3.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
 
-#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Syfy.png" group-title="CINE", SyFy
+#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Syfy.png" group-title="CINE", SyFy
 https://edge3.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
 
-#EXTINF:-1 tvg-id="AESouth.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="CINE", AE
+#EXTINF:-1 tvg-id="AESouth.us" tvg-language="Spanish" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="CINE", AE
 https://edge3.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="CINE",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-language="Spanish" tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="CINE",Comedy Central
 https://edge3.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://1.bp.blogspot.com/-WWo-wPrp9c0/X9agAAWUkMI/AAAAAAAA7p0/BfYCqVVBNdE2SGSUP2VtGJoEHCqV1jB4gCLcBGAsYHQ/s639/cine-ar.png" group-title="CINE", CINEAR
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-WWo-wPrp9c0/X9agAAWUkMI/AAAAAAAA7p0/BfYCqVVBNdE2SGSUP2VtGJoEHCqV1jB4gCLcBGAsYHQ/s639/cine-ar.png" group-title="CINE", CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://telefullenvivo.com/logos/volver.png" group-title="CINE",Volver
+#EXTINF:-1 tvg-id="Volver.ar" tvg-language="Spanish" tvg-logo="https://telefullenvivo.com/logos/volver.png" group-title="CINE",Volver
 https://edge3.prepro.cvattv.com.ar/live/vod/Volver/SA_Live_WebVTT_FTA/Volver.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="PlayboyTVLatinAmerica.us" tvg-logo="https://i.imgur.com/k00nQ6l.png" group-title="ADULT +18", PLAYBOY
 https://edge1.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
