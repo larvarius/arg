@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml"
-
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1539189684961546240/MZ5SxpyR_400x400.jpg" group-title="NACIONAL", CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
