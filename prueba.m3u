@@ -1,17 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1,ARG: C5N SD
+#EXTINF:-1 group-title="ARGENTINA,ARG: C5N SD
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/25180.m3u8
 
-#EXTINF:-1,ARG: A24 HD
+#EXTINF:-1 group-title="ARGENTINA,ARG: A24 HD
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/256.m3u8
 
-#EXTINF:-1,ARG: Television Publica HD
+#EXTINF:-1 group-title="ARGENTINA,ARG: Television Publica HD
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/25183.m3u8
 
-#EXTINF:-1,ARG: Todo Noticias TN SD
+#EXTINF:-1 group-title="ARGENTINA,ARG: Todo Noticias TN SD
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/275.m3u8
-#EXTINF:-1,ARG: Todo Noticias TN HD
+#EXTINF:-1 group-title="ARGENTINA,ARG: Todo Noticias TN HD
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/25194.m3u8
 
 #EXTINF:-1 tvg-id="hbo.co" tvg-name="HBO  HD(E)" tvg-logo="https://image.xmltv.guide/icon/1004005.png" group-title="CINE Y SERIES",HBO  HD(E)
@@ -45,23 +45,27 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/29301
 
 #EXTINF:-1 tvg-id="TNTSPOR" tvg-name="ARG: TNT SPORTS HD" tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="ARGENTINA",ARG: TNT SPORTS HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/165666.m3u8
-#EXTINF:-1,SP: ARG: TNT Sports HD
+#EXTINF:-1 group-title="ARGENTINA,SP: ARG: TNT Sports HD
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/26530.m3u8
-#EXTINF:-1,SP: ARG: Directv Sports 1 HD
+#EXTINF:-1 group-title="ARGENTINA,SP: ARG: Directv Sports 1 HD
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/26524.m3u8
-#EXTINF:-1,SP: ARG: Directv Sports 2 HD
+#EXTINF:-1 group-title="ARGENTINA,SP: ARG: Directv Sports 2 HD
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/103064.m3u8
-#EXTINF:-1,SP: ARG: Directv Sports + HD
+#EXTINF:-1 group-title="ARGENTINA,SP: ARG: Directv Sports + HD
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/103065.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 AR (D)" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="DIRECTV SPORTS",DIRECTV SPORTS 2 AR (D)
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169946.m3u8
 
-#EXTINF:-1,SP: PE: Directv Sports HD
+#EXTINF:-1 group-title="ARGENTINA,SP: PE: Directv Sports HD
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/300841.m3u8
-#EXTINF:-1,SP: PE: Directv Sports HD+
+#EXTINF:-1 group-title="ARGENTINA,SP: PE: Directv Sports HD+
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/300839.m3u8
-#EXTINF:-1,SP: PE: Directv Sports 2
+#EXTINF:-1 group-title="ARGENTINA,SP: PE: Directv Sports 2
 http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/300842.m3u8
+
+
+
+
 
 
 
