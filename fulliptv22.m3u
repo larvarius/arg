@@ -272,80 +272,43 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://telefullenvivo.com/logos/volver.png" group-title="Cine",Volver
 https://edge3.prepro.cvattv.com.ar/live/vod/Volver/SA_Live_WebVTT_FTA/Volver.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Accion (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-nO6LGIGXiKU/Ydd5jqDaLoI/AAAAAAAACeE/OIJntOj0X38xOVhhkwAYsmDC1rOTJJeHQCNcBGAsYHQ/w200-h200/1641511305901712-5.png" group-title="Cine",24/7 Estrenos Accion (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Accion (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-nO6LGIGXiKU/Ydd5jqDaLoI/AAAAAAAACeE/OIJntOj0X38xOVhhkwAYsmDC1rOTJJeHQCNcBGAsYHQ/w200-h200/1641511305901712-5.png" group-title="Cine 2", Estrenos Accion (e)(720)
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/144548
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Aventura (720)(e)" tvg-logo="https://lh3.googleusercontent.com/-Ekk591Kj83Y/Ydd5iLtv3_I/AAAAAAAACeA/UdbrcAv_oKkB1MvvV-bvP_FuI6qfNpU2wCNcBGAsYHQ/w200-h200/1641511301841391-6.png" group-title="Cine",24/7 Estrenos Aventura (720)(e)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Aventura (720)(e)" tvg-logo="https://lh3.googleusercontent.com/-Ekk591Kj83Y/Ydd5iLtv3_I/AAAAAAAACeA/UdbrcAv_oKkB1MvvV-bvP_FuI6qfNpU2wCNcBGAsYHQ/w200-h200/1641511301841391-6.png" group-title="Cine 2", Estrenos Aventura (720)(e)
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/144550
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos CienciaFiccion (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-jfk4C0A1lSA/Ydd5lap43MI/AAAAAAAACeM/iChY2cwG1f4laEE7YGsb_qcIh5MPejoYwCNcBGAsYHQ/w200-h200/1641511316245178-3.png" group-title="Cine",24/7 Estrenos CienciaFiccion (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos CienciaFiccion (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-jfk4C0A1lSA/Ydd5lap43MI/AAAAAAAACeM/iChY2cwG1f4laEE7YGsb_qcIh5MPejoYwCNcBGAsYHQ/w200-h200/1641511316245178-3.png" group-title="Cine 2", Estrenos CienciaFiccion (e)(720)
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/144551
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Comedia (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-q6qobrR1_XA/Ydd5mQP3zzI/AAAAAAAACeQ/KX0qZrnBfUkDYmanj3OrIilEcp2ZhiAVgCNcBGAsYHQ/w200-h200/1641511319639596-2.png" group-title="Cine",24/7 Estrenos Comedia (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Comedia (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-q6qobrR1_XA/Ydd5mQP3zzI/AAAAAAAACeQ/KX0qZrnBfUkDYmanj3OrIilEcp2ZhiAVgCNcBGAsYHQ/w200-h200/1641511319639596-2.png" group-title="Cine 2", Estrenos Comedia (e)(720)
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/144552
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Animacion (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-MyTiBbE9SY0/Ydd5krKAWYI/AAAAAAAACeI/a7TNY6FDnpgmxC10IS5NTI6rYNAf5k_YgCNcBGAsYHQ/w200-h200/1641511312615859-4.png" group-title="Cine",24/7 Estrenos Animacion (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Animacion (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-MyTiBbE9SY0/Ydd5krKAWYI/AAAAAAAACeI/a7TNY6FDnpgmxC10IS5NTI6rYNAf5k_YgCNcBGAsYHQ/w200-h200/1641511312615859-4.png" group-title="Cine 2", Estrenos Animacion (e)(720)
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/144549
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Disney (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-RrmWhBeYl6U/YdnxiK2FZlI/AAAAAAAACe4/TKCJp6OjA4UROoJekpgft-JRIM8DwIS0wCNcBGAsYHQ/w200-h200/1641673092711216-0.png" group-title="Cine",24/7 Estrenos Disney (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Disney (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-RrmWhBeYl6U/YdnxiK2FZlI/AAAAAAAACe4/TKCJp6OjA4UROoJekpgft-JRIM8DwIS0wCNcBGAsYHQ/w200-h200/1641673092711216-0.png" group-title="Cine 2", Estrenos Disney (e)(720)
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/144553
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Familiar (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-RR3GZKjVOOg/Ydd5n5PzMTI/AAAAAAAACeY/eIgAx_ZpoOstcYoYbxlfbtiFTgoXkOfhQCNcBGAsYHQ/w200-h200/1641511325849517-0.png" group-title="Cine",24/7 Estrenos Familiar (e)(720)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Estrenos Familiar (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-RR3GZKjVOOg/Ydd5n5PzMTI/AAAAAAAACeY/eIgAx_ZpoOstcYoYbxlfbtiFTgoXkOfhQCNcBGAsYHQ/w200-h200/1641511325849517-0.png" group-title="Cine 2", Estrenos Familiar (e)(720)
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/144554
 
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  1" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV Cinema 4K (Dual Audio) | Cinema  1
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4K Cinema  1" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV 4K Cinema  1
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/153813
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  2" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV Cinema 4K (Dual Audio) | Cinema  2
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4K Cinema  2" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV 4K Cinema  2
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/153814
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  3" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV Cinema 4K (Dual Audio) | Cinema  3
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4K Cinema  3" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV 4K Cinema  3
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/153815
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  4" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV Cinema 4K (Dual Audio) | Cinema  4
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4K Cinema  4" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV 4K Cinema  4
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/153816
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  5" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV Cinema 4K (Dual Audio) | Cinema  5
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4K Cinema  5" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV 4K Cinema  5
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/153817
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  6" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV Cinema 4K (Dual Audio) | Cinema  6
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4K Cinema  6" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV 4K Cinema  6
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/153818
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  7" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV Cinema 4K (Dual Audio) | Cinema  7
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4K Cinema  7" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV 4K Cinema  7
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/153819
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  8" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV Cinema 4K (Dual Audio) | Cinema  8
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4K Cinema  8" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV 4K Cinema  8
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/153820
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  9" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV Cinema 4K (Dual Audio) | Cinema  9
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4K Cinema  9" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV 4K Cinema  9
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/153821
-#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema 4K (Dual Audio) | Cinema  10" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV Cinema 4K (Dual Audio) | Cinema  10
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4K Cinema  10" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png" group-title="Cine 2",PPV 4K Cinema  10
 http://tv.gotvpro.club:28000/VtuXTnWreg/H18s3IC6wM/153822
 
-#EXTINF:-1 group-title="Cine 2",,Cinema Marvel Studios Oeste
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/127151
-#EXTINF:-1 group-title="Cine 2",,Cinema Marvel Studios Este
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/127150
-#EXTINF:-1 group-title="Cine 2",,Cinema Acción Clásicos Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36606
-#EXTINF:-1 group-title="Cine 2",,Cinema Anime Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/74304
-#EXTINF:-1 group-title="Cine 2",,Cinema DC Comics Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36612
-#EXTINF:-1 group-title="Cine 2",,Cinema DC Universe Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36611
-#EXTINF:-1 group-title="Cine 2",,Cinema Disney Familia Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36608
-#EXTINF:-1 group-title="Cine 2",,Cinema Disney Pixar Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36609
-#EXTINF:-1 group-title="Cine 2",,Cinema Dreamworks Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36610
-#EXTINF:-1 group-title="Cine 2",,Cinema Familia Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36604
-#EXTINF:-1 group-title="Cine 2",,Cinema Happy Madison Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36602
-#EXTINF:-1 group-title="Cine 2",,Cinema Horror Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36605
-#EXTINF:-1 group-title="Cine 2",,Cinema LEGO Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36607
-#EXTINF:-1 group-title="Cine 2",,Cinema Navidad Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/74306
-#EXTINF:-1 group-title="Cine 2",,Cinema Horror Clasicos Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/74388
-#EXTINF:-1 group-title="Cine 2",,Cinema SciFi Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36603
-#EXTINF:-1 group-title="Cine 2",,Movie Center Premiun  East Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36600
-#EXTINF:-1 group-title="Cine 2",,Movie Center Premiun West Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36598
-#EXTINF:-1 group-title="Cine 2",,Movie Center Premiun FHD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/74305
+
 
 #EXTINF:-1 group-title="Cine 2",Run:Time 1 HD
 http://titanicos.net:8080/trading131sdRes/EREPQGarev/228167
@@ -390,13 +353,6 @@ http://titanicos.net:8080/trading131sdRes/EREPQGarev/113808
 #EXTINF:-1 group-title="Cine 2",Sr Cine Películas Cristianas HD
 http://titanicos.net:8080/trading131sdRes/EREPQGarev/160622
 #EXTINF:-1 group-title="Cine 2",Sr Cine Zombies HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/69259
-#EXTINF:-1 group-title="Cine 2",Cinema Marvel Animated 
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/127148
-#EXTINF:-1 group-title="Cine 2",Cinema Marvel Studios
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/127149
-#EXTINF:-1 group-title="Cine 2",Cinema Comedia Full HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/36597
 #EXTINF:-1 group-title="Cine 2",Movie Center Kids Full HD
 http://titanicos.net:8080/trading131sdRes/EREPQGarev/36599
 #EXTINF:-1 group-title="Cine 2",A Estrenar Full HD
