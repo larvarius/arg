@@ -42,7 +42,7 @@ http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_8shCW9f2TF5
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", ESPN
-http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/169952.m3u8
+http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_8DpdcPLRnBbHjemDoEZgFU/ts
 
 #EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", ESPN 2
 http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_-3QziO-FyrsQwfMPGiccl_/ts
@@ -54,7 +54,7 @@ http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_8VnTX4qhLFt
 http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_8xRWnLtAH-7g1EXnhyqTSn/ts
 
 #EXTINF:-1 tvg-id="TNTSportsHDArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1539965798529130498/3F1yzhSX_400x400.png" group-title="Sports 1", TNT Sports HD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/26530
+http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_92iLLnRU0bc6ePDWbwK7k_/ts
 
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Sports 1", Fox Sports
 http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_9QYSjPmu1qRKNphzON6hPc/ts
@@ -91,6 +91,9 @@ http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_8SGmR2TnAXq
 
 #EXTINF:-1 tvg-id="HBOSignatureHDLatinAmerica.us" audio-track="AACL 145 Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Cine", HBO Signarure
 http://xdgo.live:8080/play/b-rw9iT5nqFcs40bMJ6Yw6La8FBfFvFbr65Lds6F5_8W8WJcPI2TxRpW1x4JK12s/ts
+
+
+
 
 
 
